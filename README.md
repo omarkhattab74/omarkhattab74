@@ -28,7 +28,7 @@ HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Git • G
 ---
 
 
-### 📫 Connect With Me
+### 📫 Contact With Me
 
 - 📧 Email: (omarkhattab743@gmail.com)
 
